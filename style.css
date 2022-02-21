@@ -165,10 +165,11 @@ footer .contact-box {
   background: var(--secondary-color);
   padding: 30px 120px;
   border-radius: 10px;
+  margin: 50px;
 }
 
 footer .contact-box p {
-  margin: 0;
+  margin: 0px;
 }
 
 footer .email-link {
